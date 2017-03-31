@@ -1,7 +1,7 @@
-# HOgit
+# HOgitU 
 Repositorio con ejercicios para practicar comandos básicos de git
 "hola mundo"
-
+"chau mundo ":
 ## Qué podemos hacer
 
 ### Commits
