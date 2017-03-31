@@ -1,5 +1,6 @@
 # HOgit
 Repositorio con ejercicios para practicar comandos básicos de git
+"hola mundo"
 
 ## Qué podemos hacer
 
